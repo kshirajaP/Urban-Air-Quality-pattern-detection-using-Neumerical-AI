@@ -162,3 +162,11 @@ python -m streamlit run dashboard.py
 This project demonstrates how **Numerical AI techniques combined with an AI agent architecture** can effectively analyze urban air quality data. The system provides meaningful insights into pollution patterns and anomalies, forming a strong foundation for future intelligent environmental monitoring systems.
 
 ---
+# ⚠️ Common Errors (Quick Fix)
+
+| Error | Fix |
+|------|-----|
+| git not recognized | Install Git |
+| authentication failed | Use GitHub token |
+| push rejected | `git pull origin main --rebase` |
+---
